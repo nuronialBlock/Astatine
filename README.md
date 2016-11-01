@@ -4,7 +4,7 @@ Astatine is a bash script which downloads youtube songs as a mp3 format. You nee
 
 ### Installation 
 
-  #### OSX
+  ### OSX
     
     - Go to your terminal and type: 
       - brew install youtube-dl
