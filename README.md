@@ -11,4 +11,4 @@ Astatine is a bash script which downloads youtube songs as a mp3 format. You nee
         
       - Download Astatine
         - chmod +x astatine.sh
-        - ./astatine.sh < fileName.txt
+        - ./astatine.sh fileName.txt
